@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="font">
+    <file>varsity_regular.ttf</file>
+    <file>dripicons-v2.ttf</file>
+  </qresource>
+</RCC>
