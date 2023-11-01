@@ -22,3 +22,6 @@ A basic Python tabbed browser using the PyQt5 framework. Includes some basic web
 
 ## Status
 I probably won't be updating this much as I made it to bypass school blocks in high school. I'm no longer in high school, and it has thus served its purpose.
+
+### Other notes
+There's some code in there to change user-agent and a list of a bunch of user agents from old browsers and random devices. There's also a simple authentication system that just uses the logged-in account's username, which will be uploaded soon. I determined more security was not needed as it was only intended to run on high school computers where I was the only one capable of creating and changing usernames (outside of staff). It's discord-based because I'm cheap and includes support for trials and a launcher.
